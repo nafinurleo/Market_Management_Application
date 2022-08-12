@@ -1,0 +1,57 @@
+E:\5th semester\oop-2\market_management\Market_Management\bin\Debug\Market_Management.exe.config
+E:\5th semester\oop-2\market_management\Market_Management\bin\Debug\Market_Management.exe
+E:\5th semester\oop-2\market_management\Market_Management\bin\Debug\Market_Management.pdb
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.csproj.AssemblyReference.cache
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.ProductForm.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.Form1.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.Properties.Resources.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.SellerForm.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.SignUpForm.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.csproj.GenerateResource.cache
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.csproj.CoreCompileInputs.cache
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.exe
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.pdb
+E:\5th semester\oop-2\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.dll
+E:\5th semester\oop-2\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.pdb
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.ManageCategory.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.OrderForm.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.SellingForm.resources
+E:\5th semester\oop-2\market_management\Market_Management\obj\Debug\Market_Management.csproj.CopyComplete
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.exe.config
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.exe
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.pdb
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.dll
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.pdb
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.ManageCategory.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.OrderForm.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.ProductForm.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.Form1.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.Properties.Resources.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SellerForm.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SellingForm.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SignUpForm.resources
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.CopyComplete
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.exe
+C:\Users\Dell\Downloads\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.AssemblyReference.cache
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.ManageCategory.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.OrderForm.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.ProductForm.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.Form1.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.Properties.Resources.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SellerForm.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SellingForm.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.SignUpForm.resources
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.GenerateResource.cache
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.CoreCompileInputs.cache
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.exe
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.exe.config
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.exe
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\bin\Debug\Market_Management.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.dll
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\bin\Debug\DataAccessLayer_Market.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\Market_Management\obj\Debug\Market_Management.csproj.CopyComplete

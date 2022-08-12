@@ -1,0 +1,18 @@
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.dll
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.pdb
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.AssemblyReference.cache
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.CoreCompileInputs.cache
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.dll
+E:\5th semester\oop-2\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.pdb
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.dll
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.pdb
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.dll
+C:\Users\Dell\Downloads\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.AssemblyReference.cache
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.csproj.CoreCompileInputs.cache
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.dll
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\obj\Debug\DataAccessLayer_Market.pdb
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.dll
+D:\Fifth Semester\OOP2\Project Work\Project Code\market_management(project)\market_management\DataAccessLayer_Market\bin\Debug\DataAccessLayer_Market.pdb
